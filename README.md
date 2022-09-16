@@ -1,5 +1,5 @@
 
-# Devaten_Middleware
+# Devaten Middleware
 
 This middleware was created to have an easy-to-set-up link between Devaten and Prometheus.
 
