@@ -38,6 +38,7 @@ Then run
 docker-compose up
 ```
 
+Before proceding login. To login, see : [Login](#login)
 
 ## How to Use
 
