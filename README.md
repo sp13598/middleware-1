@@ -24,11 +24,19 @@ Once the clone is completed you got a middleware folder on your system. Go insid
 
 Go inside the cloned folder named middleware which contains the above three files.
 
-Open Command Prompt and run command ```docker-compose pull```  
+Open Command Prompt and run command 
+
+```
+docker-compose pull
+```  
 
 This will download the docker images locally.
 
-Then run ```docker-compose up```
+Then run
+
+```
+docker-compose up
+```
 
 
 ## How to Use
@@ -90,4 +98,6 @@ Access Grafana on path: http://localhost:3000/
 
 ## How to Stop Containers
 
-```docker-compose down```
+```
+docker-compose down
+```
