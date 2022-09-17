@@ -15,7 +15,7 @@ To install the middleware locally, you must have git, docker, and docker-compose
 
 To get the Middleware Docker Compose File you have to clone the git Middleware Repository using the following:
 
-https://github.com/devatengit/middleware.git
+git clone https://github.com/devatengit/middleware.git
 
 Once the clone is completed you got a middleware folder on your system. Go inside the folder you received three files. 
 [ docker-compose.yml, Prometheus and middleware.env ]  
