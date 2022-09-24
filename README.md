@@ -78,7 +78,7 @@ localhost:8999/Start/{Usecase name}/{Application Identifier}
 ### Stop Recording
 
 ```
-localhost:8999/Start/{Usecase name}/{Application Identifier}
+localhost:8999/Stop/{Usecase name}/{Application Identifier}
 ```
 
 **Usecase name** has to be the same as the name used to start the recording.
